@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: https://github.com/ece-09363/hello-world-uribet6/blob/master/IMG_4459%20(Edited).PNG
 
-2. Tell me something interesting about yourself
+2. I really enjoy playing soccer and I am fluent in two languages.
